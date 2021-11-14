@@ -1,0 +1,370 @@
+module~(ExplicitB9)NameTags~true~0
+setting~(ExplicitB9)NameTags~Mode (Hearts/Percentage)~slider~2.0
+setting~(ExplicitB9)NameTags~Scale~slider~5.0
+setting~(ExplicitB9)NameTags~Range~slider~0.0
+setting~(ExplicitB9)NameTags~Armor~tick~true
+setting~(ExplicitB9)NameTags~Durability~tick~false
+setting~(ExplicitB9)NameTags~Distance~tick~false
+module~ClientNameSpoofer~false~0
+setting~ClientNameSpoofer~Command: f3name [name]~desc~Command: f3name [name]
+module~Bedwars Overlay~false~0
+setting~Bedwars Overlay~B0MBIES moment~desc~B0MBIES moment
+setting~Bedwars Overlay~X~slider~4.0
+setting~Bedwars Overlay~Y~slider~4.0
+setting~Bedwars Overlay~Margin~slider~4.0
+setting~Bedwars Overlay~Margin Text X~slider~21.0
+setting~Bedwars Overlay~Margin Text Y~slider~8.0
+module~Murder Mystery~false~0
+setting~Murder Mystery~Alert~tick~true
+setting~Murder Mystery~Search detectives~tick~true
+setting~Murder Mystery~Announce murderer~tick~false
+module~String Encrypt~false~0
+setting~String Encrypt~Ignore debug~tick~false
+setting~String Encrypt~Ignore all GUI~tick~false
+setting~String Encrypt~Value~slider~1.0
+setting~String Encrypt~Mode: &k~desc~Mode: &k
+module~AutoHeadHitter~false~0
+setting~AutoHeadHitter~Spams spacebar when under blocks~desc~Spams spacebar when under blocks
+setting~AutoHeadHitter~Cancel if snkeaing~tick~true
+setting~AutoHeadHitter~Only when holding jump~tick~true
+setting~AutoHeadHitter~Jump Presses per second~slider~12.0
+module~Delay Remover~false~0
+setting~Delay Remover~Gives you 1.7 hitreg.~desc~Gives you 1.7 hitreg.
+module~Extra Bobbing~false~0
+setting~Extra Bobbing~Level~slider~1.0
+module~Self Destruct~false~14
+module~Message Info~false~0
+module~Particle Trail~false~0
+setting~Particle Trail~Value:~slider~1.0
+setting~Particle Trail~Mode: FLAME~desc~Mode: EXPLOSION_NORMAL
+module~Bridge Assist~false~0
+setting~Bridge Assist~Best with fastplace, not autoplace~desc~Best with fastplace, not autoplace
+setting~Bridge Assist~Wait time (ms)~slider~500.0
+setting~Bridge Assist~Set look pos~tick~true
+setting~Bridge Assist~Work only when sneaking~tick~true
+setting~Bridge Assist~Work with safewalk~tick~false
+setting~Bridge Assist~Assist range~slider~10.0
+setting~Bridge Assist~Glide speed~slider~200.0
+setting~Bridge Assist~Value~slider~1.0
+setting~Bridge Assist~Mode: GodBridge~desc~Mode: GODBRIDGE
+module~Trajectories~false~0
+setting~Trajectories~Prefer a slot~tick~false
+setting~Trajectories~Prefer wich slot~slider~5.0
+module~Water bucket~false~0
+setting~Water bucket~Credits: aycy~desc~Credits: aycy
+module~Sumo Fences~false~25
+setting~Sumo Fences~Fences for Hypixel sumo.~desc~Fences for Hypixel sumo.
+setting~Sumo Fences~Fence height~slider~3.0
+setting~Sumo Fences~Block type~slider~3.0
+setting~Sumo Fences~Mode: Oak fence~desc~Mode: Glass
+module~Command line~true~0
+setting~Command line~Animate~tick~true
+module~BurstClicker~false~19
+setting~BurstClicker~Artificial dragclicking.~desc~Artificial dragclicking.
+setting~BurstClicker~Clicks~slider~41.0
+setting~BurstClicker~Delay (ms)~slider~23.0
+setting~BurstClicker~Delay randomizer~tick~true
+setting~BurstClicker~Place when block~tick~false
+module~Chat Logger~false~0
+module~AutoWeapon~false~0
+setting~AutoWeapon~Only when holding lmb~tick~true
+setting~AutoWeapon~Revert to old slot~tick~true
+module~Bridge Info~false~0
+setting~Bridge Info~Only for solos.~desc~Only for solos.
+setting~Bridge Info~Edit position~tick~false
+module~Duels Stats~false~0
+setting~Duels Stats~Value~slider~1.0
+setting~Duels Stats~Mode: OVERALL~desc~Mode: OVERALL
+setting~Duels Stats~Send ign on join~tick~false
+setting~Duels Stats~Threat Level~tick~true
+setting~Duels Stats~Queue dodge~tick~false
+setting~Duels Stats~Value:~slider~4.0
+setting~Duels Stats~Dodge threat level: HIGH~desc~Dodge levels: LO
+module~AutoClicker~true~0
+setting~AutoClicker~Best with delay remover.~desc~Best with delay remover.
+setting~AutoClicker~Left click~tick~true
+setting~AutoClicker~Left CPS~doubleslider~10.0~14.5
+setting~AutoClicker~Jitter left~slider~0.0
+setting~AutoClicker~Inventory fill~tick~false
+setting~AutoClicker~Weapon only~tick~false
+setting~AutoClicker~Break blocks~tick~true
+setting~AutoClicker~Breack blocks delay (MS)~doubleslider~20.0~50.0
+setting~AutoClicker~Right click~tick~false
+setting~AutoClicker~RightCPS~doubleslider~12.0~16.0
+setting~AutoClicker~Jitter right~slider~0.0
+setting~AutoClicker~Rightclick delay (ms)~slider~85.0
+setting~AutoClicker~Don't rightclick sword~tick~true
+setting~AutoClicker~Only rightclick with blocks~tick~false
+setting~AutoClicker~Prefer fast place~tick~false
+setting~AutoClicker~Allow eat~tick~true
+setting~AutoClicker~Allow bow~tick~true
+setting~AutoClicker~ClickStyle~slider~1.0
+setting~AutoClicker~Mode: RAVEN~desc~Mode: RAVEN
+setting~AutoClicker~Event~slider~2.0
+setting~AutoClicker~Mode: LEGIT~desc~Mode: TICK
+module~Stop Motion~false~0
+setting~Stop Motion~Stop X~tick~true
+setting~Stop Motion~Stop Y~tick~true
+setting~Stop Motion~Stop Z~tick~true
+module~DiscordRPC~false~0
+setting~DiscordRPC~Mode~slider~4.0
+setting~DiscordRPC~Raven b+~desc~Raven b+
+module~AntiShuffle~false~0
+setting~AntiShuffle~Remove &k~desc~Remove &k
+module~KeepSprint~false~0
+setting~KeepSprint~Default is 40% motion reduction.~desc~Default is 40% motion reduction.
+setting~KeepSprint~Slow %~slider~40.0
+setting~KeepSprint~Only reduce reach hits~tick~false
+module~Name Hider~false~0
+setting~Name Hider~Command: cname [name]~desc~Command: cname [name]
+module~ClickAssist~false~0
+setting~ClickAssist~Boost your CPS.~desc~Boost your CPS.
+setting~ClickAssist~Chance~slider~51.0
+setting~ClickAssist~Left click~tick~true
+setting~ClickAssist~Weapon only~tick~false
+setting~ClickAssist~Only while targeting~tick~false
+setting~ClickAssist~Right click~tick~false
+setting~ClickAssist~Blocks only~tick~false
+setting~ClickAssist~Above 5 cps~tick~false
+module~MouseClick~false~0
+module~CustomFOV~true~0
+setting~CustomFOV~FOV:~slider~80.0
+module~PlayerESP~false~0
+setting~PlayerESP~Red~slider~0.0
+setting~PlayerESP~Green~slider~255.0
+setting~PlayerESP~Blue~slider~0.0
+setting~PlayerESP~Rainbow~tick~false
+setting~PlayerESP~ESP Types~desc~ESP Types
+setting~PlayerESP~2D~tick~false
+setting~PlayerESP~Arrow~tick~false
+setting~PlayerESP~Box~tick~false
+setting~PlayerESP~Health~tick~true
+setting~PlayerESP~Ring~tick~false
+setting~PlayerESP~Shaded~tick~false
+setting~PlayerESP~Expand~slider~0.0
+setting~PlayerESP~X-Shift~slider~0.0
+setting~PlayerESP~Show invis~tick~true
+setting~PlayerESP~Red on damage~tick~true
+module~Middleclick~false~0
+setting~Middleclick~Show friend help in chat~tick~true
+setting~Middleclick~Value:~slider~1.0
+setting~Middleclick~Mode: PEARL_THROW~desc~Mode: PEARL_THROW
+module~AutoPlace~false~0
+setting~AutoPlace~FD: FPS/80~desc~FD: FPS/80
+setting~AutoPlace~Frame delay~slider~8.0
+setting~AutoPlace~Hold right~tick~true
+module~FastPlace~false~0
+setting~FastPlace~Delay~slider~0.0
+setting~FastPlace~Blocks only~tick~true
+module~Fake Chat~false~0
+setting~Fake Chat~Command: fakechat [msg]~desc~Command: fakechat [msg]
+module~RodAimbot~false~0
+setting~RodAimbot~FOV~slider~90.0
+setting~RodAimbot~Distance~slider~6.0
+setting~RodAimbot~Aim invis~tick~false
+module~FallSpeed~false~0
+setting~FallSpeed~Vanilla max: 3.92~desc~Vanilla max: 3.92
+setting~FallSpeed~Motion~slider~5.0
+setting~FallSpeed~Disable XZ motion~tick~true
+module~Fullbright~false~0
+setting~Fullbright~No more darkness!~desc~No more darkness!
+module~AutoBlock~false~0
+setting~AutoBlock~Block duration (MS)~doubleslider~20.0~100.0
+setting~AutoBlock~Distance to player (blocks)~doubleslider~0.0~3.0
+setting~AutoBlock~Chance %~slider~100.0
+module~Click Info~false~0
+setting~Click Info~Value:~slider~1.0
+setting~Click Info~Mode: MOUSE~desc~Mode: MOUSE
+module~Auto Tool~false~0
+setting~Auto Tool~Hotkey back~tick~true
+setting~Auto Tool~Max delay~doubleslider~10.0~50.0
+module~FPSSpoof~false~0
+setting~FPSSpoof~Spoofs your fps~desc~Spoofs your fps
+setting~FPSSpoof~FPS~doubleslider~99900.0~100000.0
+module~AutoJump~false~0
+setting~AutoJump~Cancel when shifting~tick~true
+module~ChestESP~false~0
+setting~ChestESP~Red~slider~0.0
+setting~ChestESP~Green~slider~0.0
+setting~ChestESP~Blue~slider~255.0
+setting~ChestESP~Rainbow~tick~false
+module~Nametags~true~0
+setting~Nametags~Offset~slider~1.0
+setting~Nametags~Rect~tick~false
+setting~Nametags~Show health~tick~true
+setting~Nametags~Show invis~tick~true
+setting~Nametags~Remove tags~tick~false
+module~AimAssist~true~0
+setting~AimAssist~Speed 1~slider~14.0
+setting~AimAssist~Speed 2~slider~9.0
+setting~AimAssist~FOV~slider~81.0
+setting~AimAssist~Distance~slider~2.5
+setting~AimAssist~Click aim~tick~false
+setting~AimAssist~Break blocks~tick~false
+setting~AimAssist~Ignore Friends~tick~false
+setting~AimAssist~Weapon only~tick~false
+setting~AimAssist~Aim invis~tick~false
+setting~AimAssist~Blatant mode~tick~false
+module~SafeWalk~false~0
+setting~SafeWalk~Shift~tick~false
+setting~SafeWalk~Shift during jumps~tick~false
+setting~SafeWalk~On shift hold~tick~false
+setting~SafeWalk~Blocks only~tick~true
+setting~SafeWalk~Show amount of blocks~tick~true
+setting~SafeWalk~Block display info:~slider~2.0
+setting~SafeWalk~Mode: ~desc~Mode: BLOCKS_IN_CURRENT_STACK
+setting~SafeWalk~Only when looking down~tick~true
+setting~SafeWalk~Pitch min range:~doubleslider~70.0~85.0
+module~BedAura~false~0
+setting~BedAura~Range~slider~5.0
+module~Freecam~false~0
+setting~Freecam~Speed~slider~2.5
+setting~Freecam~Disable on damage~tick~true
+module~Tracers~false~0
+setting~Tracers~Show invis~tick~true
+setting~Tracers~Line Width~slider~1.0
+setting~Tracers~Red~slider~0.0
+setting~Tracers~Green~slider~255.0
+setting~Tracers~Blue~slider~0.0
+setting~Tracers~Rainbow~tick~false
+module~Ladders~false~0
+setting~Ladders~Prefer a slot~tick~false
+setting~Ladders~Prefer wich slot~slider~8.0
+module~ShiftTap~false~0
+setting~ShiftTap~Only combo players~tick~true
+setting~ShiftTap~Action Time (MS)~doubleslider~25.0~55.0
+setting~ShiftTap~Once every ... hits~doubleslider~1.0~1.0
+setting~ShiftTap~Post delay (MS)~doubleslider~25.0~55.0
+setting~ShiftTap~Chance %~slider~100.0
+setting~ShiftTap~Range: ~slider~3.0
+setting~ShiftTap~Value: ~slider~2.0
+setting~ShiftTap~Mode: POST~desc~Mode: POST
+module~InvMove~false~0
+module~Velocity~false~0
+setting~Velocity~Horizontal~slider~62.0
+setting~Velocity~Vertical~slider~100.0
+setting~Velocity~Chance~slider~69.0
+setting~Velocity~Only while targeting~tick~false
+setting~Velocity~Disable while holding S~tick~false
+module~BlockHit~false~0
+setting~BlockHit~Only combo players~tick~true
+setting~BlockHit~When holding down rmb~tick~true
+setting~BlockHit~Action Time (MS)~doubleslider~110.0~150.0
+setting~BlockHit~Once every ... hits~doubleslider~1.0~1.0
+setting~BlockHit~Post Delay (MS)~doubleslider~10.0~40.0
+setting~BlockHit~Chance %~slider~100.0
+setting~BlockHit~Range: ~slider~3.0
+setting~BlockHit~Value: ~slider~2.0
+setting~BlockHit~Mode: POST~desc~Mode: POST
+module~SlyPort~false~0
+setting~SlyPort~Teleport behind enemies.~desc~Teleport behind enemies.
+setting~SlyPort~Range~slider~6.0
+setting~SlyPort~Aim~tick~true
+setting~SlyPort~Play sound~tick~true
+setting~SlyPort~Players only~tick~true
+module~FovLSD~false~0
+setting~FovLSD~Speed:~slider~0.1
+setting~FovLSD~Fov Min/Max~doubleslider~25.0~180.0
+module~Weapon~false~0
+module~Armour~false~0
+setting~Armour~Ignore if already equipped~tick~true
+module~Healing~false~0
+setting~Healing~Prefer a slot~tick~false
+setting~Healing~Prefer wich slot~slider~8.0
+setting~Healing~Value:~slider~1.0
+setting~Healing~Mode: SOUP~desc~Mode: SOUP
+module~AntiBot~false~0
+setting~AntiBot~Wait 80 ticks~tick~true
+module~Update~false~0
+setting~Update~Command: update~desc~Command: update
+setting~Update~Copy to clipboard~tick~true
+setting~Update~Open dl in browser~tick~true
+module~NoSlow~false~0
+setting~NoSlow~Default is 80% motion reduction.~desc~Default is 80% motion reduction.
+setting~NoSlow~Hypixel max: 22%~desc~Hypixel max: 22%
+setting~NoSlow~Slow %~slider~80.0
+module~Blocks~false~0
+setting~Blocks~Prefer a slot~tick~false
+setting~Blocks~Prefer wich slot~slider~9.0
+module~HitBox~true~0
+setting~HitBox~Multiplier~slider~2.95
+setting~HitBox~Show new hitbox~tick~true
+module~Reach~true~0
+setting~Reach~Reach (Blocks)~doubleslider~3.0~3.1
+setting~Reach~Weapon only~tick~false
+setting~Reach~Moving only~tick~false
+setting~Reach~Sprint only~tick~false
+setting~Reach~Hit through blocks~tick~false
+module~Speed~false~0
+setting~Speed~Hypixel max: 1.13~desc~Hypixel max: 1.13
+setting~Speed~Speed~slider~1.13
+setting~Speed~Strafe only~tick~false
+module~Sprint~false~0
+setting~Sprint~OmniSprint~tick~false
+module~NoFall~false~0
+module~Chams~false~0
+module~Twerk~false~0
+setting~Twerk~Duration:~slider~1.0
+module~Boost~false~0
+setting~Boost~20 ticks are in 1 second~desc~20 ticks are in 1 second
+setting~Boost~Multiplier~slider~1.35
+setting~Boost~Time (ticks)~slider~80.0
+module~Pearl~false~0
+setting~Pearl~Prefer a slot~tick~false
+setting~Pearl~Prefer wich slot~slider~6.0
+module~Timer~false~0
+setting~Timer~Speed~slider~1.0
+setting~Timer~Strafe only~tick~false
+module~Bhop~false~19
+setting~Bhop~Speed~slider~2.2
+module~Xray~false~0
+setting~Xray~Range~slider~20.0
+setting~Xray~Iron~tick~true
+setting~Xray~Gold~tick~true
+setting~Xray~Diamond~tick~true
+setting~Xray~Emerald~tick~true
+setting~Xray~Lapis~tick~true
+setting~Xray~Redstone~tick~true
+setting~Xray~Coal~tick~true
+setting~Xray~Spawner~tick~true
+module~WTap~false~0
+setting~WTap~Only combo players~tick~true
+setting~WTap~Action Time (MS)~doubleslider~25.0~55.0
+setting~WTap~Once every ... hits~doubleslider~1.0~1.0
+setting~WTap~Post delay (MS)~doubleslider~25.0~55.0
+setting~WTap~Chance %~slider~100.0
+setting~WTap~Range: ~slider~3.0
+setting~WTap~Value: ~slider~2.0
+setting~WTap~Mode: POST~desc~Mode: POST
+module~STap~false~0
+setting~STap~Only combo players~tick~true
+setting~STap~Action Time (MS)~doubleslider~25.0~55.0
+setting~STap~Once every ... hits~doubleslider~1.0~1.0
+setting~STap~Post Delay (MS)~doubleslider~10.0~40.0
+setting~STap~Chance %~slider~100.0
+setting~STap~Range: ~slider~3.0
+setting~STap~Value: ~slider~2.0
+setting~STap~Mode: POST~desc~Mode: POST
+module~VClip~false~0
+setting~VClip~Distace~slider~-5.5
+module~Spin~false~0
+setting~Spin~Rotation~slider~360.0
+setting~Spin~Speed~slider~25.0
+module~HUD~true~0
+setting~HUD~Edit position~tick~false
+setting~HUD~Drop shadow~tick~true
+setting~HUD~Logo~tick~false
+setting~HUD~Alphabetical sort~tick~false
+setting~HUD~Value: ~slider~5.0
+setting~HUD~Mode: RAVEN~desc~Mode: ASTOLFO3
+module~Fly~false~0
+setting~Fly~Value~slider~1.0
+setting~Fly~Mode: Vanilla~desc~Mode: Vanilla
+setting~Fly~Speed~slider~1.0
+module~Gui~false~54
+setting~Gui~Theme~slider~3.0
+setting~Gui~Mode: b+~desc~Mode: b3
+setting~Gui~Background Opacity %~slider~43.0
+setting~Gui~Category Background~tick~true
+setting~Gui~Toggle Notifications~tick~true
+setting~Gui~Rainbow Notifications~tick~true
